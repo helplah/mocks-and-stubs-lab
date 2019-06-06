@@ -15,6 +15,7 @@ const processPayments = () => {
 };
 
 // uncomment the next line and run: node src/main.js a few times to see how this function works
-// processPayments(); 
+// why it wouldn't work if I didn't comment out processPayments()
+// processPayments();
 
 module.exports = processPayments;
